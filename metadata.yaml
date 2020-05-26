@@ -1,0 +1,26 @@
+_repo: Ugor-Agnes_62166
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Szemere, György
+    alias: Szemere, Gyorgy
+    birthdate: 1863
+    deathdate: 1930
+    gutenberg_agent_id: '40738'
+    url: http://www.gutenberg.org/2009/agents/40738
+    wikipedia: https://hu.wikipedia.org/wiki/Szemere_Gy%C3%B6rgy_(%C3%ADr%C3%B3)
+description: ''
+gutenberg_issued: '2020-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62166'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Hungarian fiction -- 20th century'
+- GITenberg
+title: Ugor Ágnes
+url: http://www.gutenberg.org/ebooks/62166
